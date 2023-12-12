@@ -1,3 +1,3 @@
 * Para ejecutar el proyecto importar la carpeta "demo" mediante el ide "SpringToolSuite4".
 * Una vez importado Hacer click derecho en la carpeta demo dentro del IDE "SpringToolSuite4", seleccionar la opcion "run As" y dentro del menu desplegable seleccionar "Springboot APP".
-*Para poder acceder al endpoint desarrollado usar un cliente RESt como POSTMAN y ejecutar la siguiente request bajo una solicitud de tipo GET http://localhost:8080/api/cuponesVigentes
+* Para poder acceder al endpoint desarrollado usar un cliente RESt como POSTMAN y ejecutar la siguiente request bajo una solicitud de tipo GET http://localhost:8080/api/cuponesVigentes
